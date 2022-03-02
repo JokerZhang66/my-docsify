@@ -1,3 +1,4 @@
+![文章图片](https://gitee.com/Barneys/myfiles/raw/master/img/20220302180231.png)
 # c++基础用法
 
 ##  输入输出
@@ -232,7 +233,7 @@ const int MAX_NUM = 50;
 #undef  MAX_NUM;
 ```
 
-## **const小补充**
+## const小补充
 
 ```c
 #include<stdio.h>
@@ -1134,15 +1135,3 @@ int main ()
    return 0;
 }
 ```
-## 功能测试
-> 1.测试图片缩放
-
-![测试图片](https://gitee.com/Barneys/myfiles/raw/master/img/wallhaven-g7xpwd.jpg)
-
-> 2.测试font awesome，支持v5.13
-
-<li>图标1</li>
-<i class="fab fa-accessible-icon"></i>
-
-<li>图标2</li>
-<i class="fab fa-accusoft"></i>
