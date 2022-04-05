@@ -1,4 +1,5 @@
-![文章图片](https://gitee.com/Barneys/myfiles/raw/master/img/20220302180231.png)
+<img src="/imgs/cpp.jpg" alt="cpp">
+
 # c++基础用法
 
 ##  输入输出
